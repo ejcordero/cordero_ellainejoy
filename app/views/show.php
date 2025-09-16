@@ -8,7 +8,7 @@
 </head>
 <body class="bg-gray-50 text-gray-800 font-sans p-10 text-center">
 
-  <h1 class="text-3xl font-bold text-indigo-700 mb-8">Welcome to Show View</h1>
+  <h1 class="text-3xl font-bold text-indigo-700 mb-8">Welcome to CRUDero</h1>
 
   <div class="overflow-x-auto">
     <table class="w-11/12 mx-auto bg-white shadow-lg rounded-xl overflow-hidden">
